@@ -11,3 +11,5 @@ function fibonacci(n) {
 console.log(fibonacci(4));
 console.log(fibonacci(5));
 console.log(fibonacci(6));
+
+// Big-O = O(n)
